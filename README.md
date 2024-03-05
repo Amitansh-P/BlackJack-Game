@@ -24,10 +24,6 @@ Welcome to the Blackjack Game! This is a simple implementation of the classic ca
 - CSS
 - JavaScript
 
-## Screenshots
-
-![Game Screenshot](screenshot.png)
-
 ## Getting Started
 
 To play the Blackjack Game, clone this repository to your local machine and open the `index.html` file in a web browser.
