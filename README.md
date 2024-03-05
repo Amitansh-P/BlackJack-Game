@@ -8,6 +8,9 @@ Welcome to the Blackjack Game! This is a simple implementation of the classic ca
 - **Card Deck:** The game uses a standard 52-card deck. Cards are shuffled at the beginning of each round.
 - **Scoring:** Follows standard Blackjack scoring rules, with face cards worth 10 points, and Aces worth 1 or 11 points.
 
+## Click here to play
+https://amitansh-p.github.io/BlackJack-Game/
+
 ## How to Play
 
 1. Open the `index.html` file in a web browser.
